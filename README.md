@@ -1,5 +1,3 @@
----
-
 # Quản lý Ký túc xá Sinh viên
 
 ## Giới thiệu
@@ -66,5 +64,3 @@ Phần mềm có nhiều form riêng biệt cho từng chức năng như:
 * **Màu sắc chủ đạo:** Đỏ HUST (#C8102E), trắng, xám
 * **Phông chữ:** Segoe UI, Roboto, Times New Roman
 * **Thiết kế:** Tối giản, dễ thao tác, hiệu ứng mượt, responsive nhẹ nhàng
-
----
