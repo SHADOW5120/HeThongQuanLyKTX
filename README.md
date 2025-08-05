@@ -26,13 +26,15 @@ Phần mềm hỗ trợ nhân viên ký túc xá trong việc quản lý sinh vi
 
 ![20](https://github.com/user-attachments/assets/4b4a5779-750d-4974-8950-14c8e13a23f1)
 
-
 ## Cấu trúc cơ sở dữ liệu
 
 * **Các bảng chính:**
 
   * `sinhvien`, `nguoithan`, `phong`, `khuvuc`, `loaiphong`, `dichvu`, `hoadon`, `phieudangky`, `taikhoan`, `nhanvien`
 
+![Annotation 2025-08-05 164426](https://github.com/user-attachments/assets/b6ef489c-aabb-41bd-b4bc-bacfa9289000)
+
+![22](https://github.com/user-attachments/assets/90fea8d9-ef4a-442e-b213-b0d157dad631)
 
 ## Giao diện
 
