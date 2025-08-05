@@ -24,6 +24,7 @@ Phần mềm hỗ trợ nhân viên ký túc xá trong việc quản lý sinh vi
 
 ## Sơ đồ phân cấp chức năng
 
+![20](https://github.com/user-attachments/assets/4b4a5779-750d-4974-8950-14c8e13a23f1)
 
 
 ## Cấu trúc cơ sở dữ liệu
